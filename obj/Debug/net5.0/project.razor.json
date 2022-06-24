@@ -15619,6 +15619,11 @@
   "RootNamespace": "bsis3a_webapp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\HP\\Desktop\\bsis3a-webapp\\Views\\Instrument\\Edit.cshtml",
+      "TargetPath": "Views\\Instrument\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\HP\\Desktop\\bsis3a-webapp\\Views\\Type\\Delete.cshtml",
       "TargetPath": "Views\\Type\\Delete.cshtml",
       "FileKind": "mvc"
@@ -15636,6 +15641,11 @@
     {
       "FilePath": "c:\\Users\\HP\\Desktop\\bsis3a-webapp\\Views\\Type\\Create.cshtml",
       "TargetPath": "Views\\Type\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\bsis3a-webapp\\Views\\Instrument\\Index.cshtml",
+      "TargetPath": "Views\\Instrument\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15661,6 +15671,11 @@
     {
       "FilePath": "c:\\Users\\HP\\Desktop\\bsis3a-webapp\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\bsis3a-webapp\\Views\\Instrument\\Create.cshtml",
+      "TargetPath": "Views\\Instrument\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

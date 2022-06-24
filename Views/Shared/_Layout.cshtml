@@ -7,13 +7,16 @@
     <title>@ViewData["Title"] - bsis3a_webapp</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="#">Jiwoo Devs</a>
+                <a class="navbar-brand" href="#">BSIS 3A</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="Toggle navigation">
@@ -33,7 +36,7 @@
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" asp-controller="Item" asp-action="Index">Item</a>
                                 <a class="dropdown-item" asp-controller="Type" asp-action="Index">Type</a>
-                            </div>
+                                <a class="dropdown-item" asp-controller="Instrument" asp-action="Index">Instrument</a>
                         </li>
                     </ul>
                 </div>

@@ -74,3 +74,8 @@ C:\Users\HP\Desktop\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Item\Edit.cshtml.
 C:\Users\HP\Desktop\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Item\Delete.cshtml.g.cs
 C:\Users\HP\Desktop\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Type\Index.cshtml.g.cs
 C:\Users\HP\Desktop\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Type\Create.cshtml.g.cs
+C:\Users\HP\Desktop\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Type\Delete.cshtml.g.cs
+C:\Users\HP\Desktop\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Type\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Instrument\Create.cshtml.g.cs
+C:\Users\HP\Desktop\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Instrument\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\bsis3a-webapp\obj\Debug\net5.0\Razor\Views\Instrument\Index.cshtml.g.cs
